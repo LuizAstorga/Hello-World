@@ -2,9 +2,9 @@
 <html>
   <body>
     <nav>
-      <a href="introduction">Introduction</a>
-      <a href="habitat">About Me</a>
-      <a href="media">Media </a>
+      <a href="introduction.html">Introduction </a>
+      <a href="habitat.html">Habitat </a>
+      <a href="media.html">Media </a>
     </nav>
     <h1>The Brown Bear</h1>
     <nav>
